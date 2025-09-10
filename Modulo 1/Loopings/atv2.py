@@ -1,0 +1,8 @@
+
+
+for item in range(100):
+    print(item)
+
+contador= item +contador
+
+print('')
