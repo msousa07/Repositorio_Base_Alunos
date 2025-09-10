@@ -1,0 +1,9 @@
+vogal = 'aeiou'
+
+palavra = input('digite uma vogal')
+
+if palavra in vogal:
+    print(vogal)
+
+else:
+    print('gdecsf')
